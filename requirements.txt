@@ -1,0 +1,10 @@
+transformers 
+pdfplumber 
+pandas 
+torch 
+sentence-transformers
+streamlit
+langchain
+langchain-community
+bcrypt
+llama-cpp-python
